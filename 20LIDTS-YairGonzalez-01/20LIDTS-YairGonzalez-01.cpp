@@ -3,9 +3,12 @@
 
 #include <iostream>
 
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "Hello World!\n";
+    cout << "Yair González Baldizón\n";
+    cout << "2do O - Licenciatura en Ingenieria en Desarrollo de Software y Tecnologias\n";
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
