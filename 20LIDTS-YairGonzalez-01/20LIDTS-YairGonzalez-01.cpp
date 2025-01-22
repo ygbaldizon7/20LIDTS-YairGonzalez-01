@@ -8,8 +8,9 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "Yair González Baldizón\n";
+    cout << "UNACH - 2025\n";
     cout << "2do O - Licenciatura en Ingenieria en Desarrollo de Software y Tecnologias\n";
-}
+}0
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
 // Depurar programa: F5 o menú Depurar > Iniciar depuración
